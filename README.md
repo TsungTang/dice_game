@@ -1,7 +1,7 @@
 # dice_game
 
 
-[https://tsungtang.github.io/dice_game/](https://tsungtang.github.io/dice_game/)
+[https://tsungtang.github.io/dice_game/index.html](https://tsungtang.github.io/dice_game/index.html)
 
 GAME RULES:
 
